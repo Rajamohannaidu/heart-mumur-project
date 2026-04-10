@@ -1,10 +1,9 @@
-streamlit==1.56.0  # ui framework
-tensorflow==2.15.0  # ml framework
-numpy==1.26.4  # numeric computing
-pandas==2.2.2  # data analysis
-matplotlib==3.8.4  # data visualization
-librosa==0.10.2  # audio processing
-soundfile==0.12.1  # audio file handling
-huggingface-hub==0.23.0  # model loading
-numba==0.59.1
-llvmlite==0.42.0
+streamlit  # ui framework
+tensorflow == 2.20.0  # ml framework
+numpy== 2.2.6  # numeric computing
+pandas == 2.3.3  # data analysis
+matplotlib == 3.10.8  # data visualization
+librosa == 0.11.0  # audio processing
+soundfile == 0.13.1  # audio file handling
+huggingface-hub    # model loading
+
