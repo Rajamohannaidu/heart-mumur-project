@@ -6,3 +6,5 @@ matplotlib==3.8.4  # data visualization
 librosa==0.10.2  # audio processing
 soundfile==0.12.1  # audio file handling
 huggingface-hub==0.23.0  # model loading
+numba==0.59.1
+llvmlite==0.42.0
